@@ -1,0 +1,65 @@
+{
+  "users": [
+    { "id": "1", "username": "a", "password": "a" },
+    { "id": "2", "username": "b", "password": "b" },
+    { "id": "67517bd9-1d9a-432e-a568-5bdca5a9e858", "username": "c", "password": "c" },
+    {
+      "id": "9b1e0f15-104e-4957-8ef0-69f715c4bfc3",
+      "username": "d",
+      "password": "$2b$10$wlNSqPYVhzK6.z5.nI1/3OxMdD7ZIOCHSkuAqjwdYs6AP6t2q1sL6"
+    },
+    {
+      "id": "812280e3-53fd-441a-b04e-fbc50222c03f",
+      "username": "e",
+      "password": "$2b$10$MRJuJqeZtTYN/eRr2bexzOB6kYXwQB62ItoqdVYB5pJHWVeJ8APfm"
+    },
+    {
+      "id": "909dea1b-43dd-4475-abc7-2f6aa66faae5",
+      "username": "ed",
+      "password": "$2b$10$BZdz4Wb./0K2VtFJFdp65e0YMabd33/AhCXXLXafmeX1Yk/kZGkW2"
+    },
+    {
+      "id": "80e8c741-9403-415a-8ca7-e8c9bcb599b5",
+      "username": "qw",
+      "password": "$2b$10$p2VOpu.ASkYiN9lKn8kLk.i6gD1mMAmAdsJzZBT3Bb3fY4cRK.TXO"
+    },
+    {
+      "id": "0dbc4122-eff1-4886-8e7f-3bdd8b7f7842",
+      "username": "ab",
+      "password": "$2b$10$CDnnpRYWeA/BNk7rRY9SPu3ObplqgekxhqzHF5prssJqgrdELjswa"
+    },
+    {
+      "id": "40ad230b-90db-41e8-98b1-a64c7f5c1796",
+      "username": "qe",
+      "password": "$2b$10$YaJd/rFHGsOBvlqGxiZOD.fqRFG.hL4MWl4vfujHrHBupvgP.rdfu"
+    },
+    {
+      "id": "256f6c1c-13db-4ce2-9c2e-c189b4f7c6c8",
+      "username": "qed",
+      "password": "$2b$10$9sDfQllA80BICS6VyQoSHuLPFSDEfX54jSBXmdnSTPYkcMLtk6Odq"
+    },
+    {
+      "id": "cf5e09c7-87f0-4cb5-b704-305b6e9c0a82",
+      "username": "qedd",
+      "password": "$2b$10$hA6HFXrYl5IsyJz7B7GE/OV0tfIjMDcc7IgxUO5D/86UPbgAvWtoq"
+    },
+    {
+      "id": "db7b5ca3-7eea-4359-8097-bb4da90a783e",
+      "username": "qeddd",
+      "password": "$2b$10$H8xwkt6ewAdLgXfs4bUUL.hWmfh3t8hMo2iP5XQl6Z1/tqKIZLnIC",
+      "role": "admin"
+    },
+    {
+      "id": "be31012d-6eb5-4b61-9a39-f76c49f52d3f",
+      "username": "qedddd",
+      "password": "$2b$10$wkWcVP7/BSg6HBrQScqZye8VTm4UouphbOvq./s8SfG1dklaV1JQ.",
+      "role": "admin"
+    },
+    {
+      "id": "6a85143e-1cf3-4b1e-89ec-40a2c8c9ecc3",
+      "username": "abc",
+      "password": "$2b$10$ex10EqI0.sjgUVmitfzsPOHYFlJqK1YP2dO41fI/Qxv86PD24hlmq",
+      "role": "admin"
+    }
+  ]
+}
