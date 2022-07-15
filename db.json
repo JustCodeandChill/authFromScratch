@@ -59,7 +59,8 @@
       "id": "6a85143e-1cf3-4b1e-89ec-40a2c8c9ecc3",
       "username": "abc",
       "password": "$2b$10$ex10EqI0.sjgUVmitfzsPOHYFlJqK1YP2dO41fI/Qxv86PD24hlmq",
-      "role": "admin"
+      "role": "admin",
+      "userId": 1
     }
   ]
 }

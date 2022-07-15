@@ -96,6 +96,7 @@ app.post("/login", (req, res, next) => {
           username,
           role: user.role || "user",
           token,
+          userId: user.userId,
         });
       } else {
         console.log("not matching");
